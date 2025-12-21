@@ -1,0 +1,22 @@
+# AutoNavX Requirements
+# Adaptive AI for Intersection Mastery
+
+# Core dependencies
+numpy>=1.21.0
+torch>=1.12.0
+scipy>=1.7.0
+
+# CARLA dependencies (CARLA Python API is required)
+# Install CARLA Python package from the CARLA release
+
+# Visualization (optional)
+pygame>=2.0.0
+matplotlib>=3.5.0
+
+# Machine Learning
+# PyTorch is the primary deep learning framework
+
+# Optional dependencies for enhanced features
+# tensorboard>=2.8.0  # For training visualization
+# opencv-python>=4.5.0  # For image processing
+# open3d>=0.15.0  # For 3D point cloud visualization
